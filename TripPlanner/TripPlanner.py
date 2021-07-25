@@ -1,4 +1,4 @@
-#this is a simple trip planner
+#this is a simple trip planner 
 def Planner():
     speed = 30
     distance = 600

@@ -1,4 +1,4 @@
-#palindromeu
+#palindrome leetcode problem
 def Palindrome(num):
     number = str(num)
     rString = number[::-1]
